@@ -1,0 +1,218 @@
+
+# ✅ **Phishing Awareness Training** – Full Module
+
+---
+
+## 🎯 **Objective**
+
+To equip users with the knowledge and skills to recognize and avoid phishing attacks, understand social engineering tactics, and apply best practices for online safety.
+
+---
+
+## 📚 **Module Outline**
+
+---
+
+### **1. Introduction to Phishing**
+
+**Slide/Section Title:** *What is Phishing?*
+
+* **Definition:**
+  Phishing is a cyberattack where attackers impersonate legitimate institutions to steal sensitive information such as usernames, passwords, credit card numbers, etc.
+
+* **Types of Phishing:**
+
+  * Email phishing
+  * Spear phishing (targeted)
+  * Whaling (targeting executives)
+  * Smishing (SMS phishing)
+  * Vishing (Voice phishing)
+  * Clone phishing
+
+* **Brief Statistics (2024 update):**
+
+  * Over 90% of cyberattacks start with phishing.
+  * 1 in 3 employees clicks on a phishing link.
+  * Financial loss per phishing incident can exceed \$100,000.
+
+---
+
+### **2. How to Recognize Phishing Emails**
+
+**Slide/Section Title:** *Spotting the Red Flags*
+
+* **Common Signs:**
+
+  * Generic greetings (e.g., “Dear Customer”)
+  * Urgency or threats (e.g., “Your account will be closed”)
+  * Spelling and grammar mistakes
+  * Suspicious or mismatched URLs
+  * Unexpected attachments
+  * Unusual sender email addresses
+
+* **Visual Comparison:**
+
+  * Side-by-side of a real email vs. phishing email
+
+* **Real Example:**
+
+  * A fake PayPal email with mismatched sender and link URL.
+
+---
+
+### **3. Recognizing Fake Websites**
+
+**Slide/Section Title:** *Is the Site Real or Fake?*
+
+* **Key Tips:**
+
+  * Check the URL carefully: look for misspellings or extra characters
+  * Look for HTTPS and valid SSL certificate
+  * Be cautious if a site asks for sensitive info too quickly
+  * Do not trust popup forms asking for login credentials
+
+* **Real Example:**
+
+  * Show a fake banking login page imitating the real one
+
+* **Interactive Exercise:**
+
+  * Show 3 website screenshots and ask learners to pick the real one.
+
+---
+
+### **4. Social Engineering Tactics Used by Attackers**
+
+**Slide/Section Title:** *How Hackers Manipulate You*
+
+* **What is Social Engineering?**
+
+  * Psychological manipulation to trick people into giving up confidential information.
+
+* **Common Tactics:**
+
+  * **Impersonation:** Pretending to be someone you trust.
+  * **Pretexting:** Creating a fabricated scenario to obtain data.
+  * **Baiting:** Offering something enticing to lure the victim.
+  * **Tailgating:** Following someone into a secure location.
+
+* **Scenario Roleplay (Example):**
+
+  * "A caller claims to be from IT and asks for your password to fix an urgent issue."
+
+---
+
+### **5. Best Practices to Avoid Phishing**
+
+**Slide/Section Title:** *How to Stay Safe*
+
+* **Email Safety Tips:**
+
+  * Don’t click on links or download attachments from unknown sources.
+  * Hover over links before clicking.
+  * Report suspicious emails to your IT/security team.
+
+* **Technical Measures:**
+
+  * Use spam filters and antivirus software.
+  * Enable multi-factor authentication (MFA).
+  * Regularly update passwords.
+
+* **General Safety:**
+
+  * Be skeptical of unsolicited communication.
+  * Never share sensitive information over email or phone.
+  * Conduct regular training and awareness programs.
+
+---
+
+### **6. Real-World Examples**
+
+**Slide/Section Title:** *Lessons from Real Incidents*
+
+* **Example 1:** Google & Facebook lost \$100M to a fake vendor scam.
+* **Example 2:** Twitter hack in 2020 via spear-phishing an employee.
+* **Example 3:** Target breach through a compromised HVAC contractor email.
+
+---
+
+### **7. Interactive Quiz Section**
+
+**Slide/Section Title:** *Test Your Knowledge*
+
+**Format:** 5–10 Questions
+Use tools like Google Forms, Kahoot, Quizizz, or LMS-integrated quizzes.
+
+**Sample Questions:**
+
+1. **What is a red flag of a phishing email?**
+   a) Personalized greeting
+   b) Grammar mistakes
+   c) Trusted domain
+   d) None of the above
+   **Correct Answer:** b
+
+2. **What should you do if you receive a suspicious email?**
+   a) Reply and ask for clarification
+   b) Click the link to verify
+   c) Report it to the IT team
+   **Correct Answer:** c
+
+3. **Which of the following is a social engineering technique?**
+   a) Encryption
+   b) Baiting
+   c) Firewall
+   d) None of the above
+   **Correct Answer:** b
+
+---
+
+## 🧰 **Resources & Tools to Include**
+
+* **Links:**
+
+  * [Google Phishing Quiz](https://phishingquiz.withgoogle.com/)
+  * [Have I Been Pwned?](https://haveibeenpwned.com/)
+  * Internal security policy documents
+
+* **Templates:**
+
+  * Reporting phishing emails
+  * MFA setup guides
+
+* **Checklist (Printable):**
+
+  * “Before you click” phishing email checklist
+
+---
+
+## 📦 **Deliverables**
+
+1. **PowerPoint/Slides**
+
+   * \~15–20 slides with visuals, real examples, and key points.
+
+2. **Interactive Quiz**
+
+   * Google Forms, LMS plugin, or gamified tool.
+
+3. **Printable Handout (PDF)**
+
+   * Summary of phishing signs + best practices.
+
+4. **Optional Video or Voiceover**
+
+   * Narrated version of the slides.
+
+---
+
+## 🎉 **Final Tips for Engagement**
+
+* Use **real screenshots** and **mock phishing emails**.
+* Keep slides **visual and clean**, avoid large text blocks.
+* Add **story-based scenarios** to drive emotional connection.
+* Incorporate **interactive polls or live Q\&A** if presented live.
+
+---
+
+
